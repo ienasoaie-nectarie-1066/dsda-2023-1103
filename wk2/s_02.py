@@ -1,4 +1,4 @@
-import functions as fun
+from wk2 import functions as fun
 import matplotlib.pyplot as plt
 
 a = 5
